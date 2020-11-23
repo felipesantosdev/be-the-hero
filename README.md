@@ -25,3 +25,6 @@
 ## Project:
 Developed for educational purposes during the Omnistack Week #11 by RocketSeat.
 
+## License
+- [MIT] (https://github.com/felipesantosdev/be-the-hero/blob/master/LICENSE)
+
